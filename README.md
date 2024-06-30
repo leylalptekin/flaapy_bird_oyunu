@@ -6,4 +6,4 @@ python ile geliştirilmiştir.
  
   
  
- 
+  
