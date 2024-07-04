@@ -8,3 +8,4 @@ python ile geliştirilmiştir.
  
   
  
+ 
