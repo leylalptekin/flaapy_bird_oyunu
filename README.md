@@ -6,6 +6,6 @@ python ile geliştirilmiştir.
  
   
  
-  
+   
  
  
