@@ -7,7 +7,7 @@ python ile geliştirilmiştir.
   
  
    
-  
+   
   
  
  
