@@ -10,3 +10,4 @@ python ile geliştirilmiştir.
  
  
  
+ 
