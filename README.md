@@ -9,5 +9,5 @@ python ile geliştirilmiştir.
     
    
    
- 
+  
   
