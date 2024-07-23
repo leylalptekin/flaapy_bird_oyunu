@@ -10,5 +10,5 @@ python ile geliştirilmiştir.
          
      
   
-   
+    
  
