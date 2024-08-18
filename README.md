@@ -8,7 +8,7 @@ python ile geliştirilmiştir.
           
        
           
-       
+        
   
     
   
