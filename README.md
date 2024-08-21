@@ -10,6 +10,6 @@ python ile geliştirilmiştir.
                
          
   
-     
+      
   
  
