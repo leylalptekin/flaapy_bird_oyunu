@@ -4,7 +4,7 @@ python ile geliştirilmiştir.
 
 ![Databrick project with Snowflake](https://i.pinimg.com/originals/fc/e5/7a/fce57a0968d5fce2d92fc7134885d226.png)
    
-        
+         
                 
         
                 
